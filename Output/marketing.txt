@@ -1,0 +1,1001 @@
+Total,Kontinent
+"E636,920",Afrika
+"E80,221",Afrika
+"E186,230",Afrika
+"E69,520",Afrika
+"E169,844",Afrika
+"E204,001",Afrika
+"E389,155",Afrika
+"E60,558",Afrika
+"E385,710",Afrika
+"E61,430",Afrika
+"E450,656",Afrika
+"E143,196",Afrika
+"E362,196",Afrika
+"E390,246",Afrika
+"E49,556",Afrika
+"E280,854",Afrika
+"E95,944",Afrika
+"E657,377",Afrika
+"E104,610",Afrika
+"E31,187",Afrika
+"E73,276",Afrika
+"E455,934",Afrika
+"E753,507",Afrika
+"E111,312",Afrika
+"E62,075",Afrika
+"E95,944",Afrika
+"E63,963",Afrika
+"E67,602",Afrika
+"E810,050",Afrika
+"E652,015",Afrika
+"E674,850",Afrika
+"E371,910",Afrika
+"E192,304",Afrika
+"E91,720",Afrika
+"E12,112",Afrika
+"E42,051",Afrika
+"E749,352",Afrika
+"E655,542",Afrika
+"E222,054",Afrika
+"E33,763",Afrika
+"E309,455",Afrika
+"E629,531",Afrika
+"E176,934",Afrika
+"E72,784",Afrika
+"E47,663",Afrika
+"E145,398",Afrika
+"E425,410",Afrika
+"E60,306",Afrika
+"E123,105",Afrika
+"E732,390",Afrika
+"E626,584",Afrika
+"E139,890",Afrika
+"E341,260",Afrika
+"E298,908",Afrika
+"E152,424",Afrika
+"E103,562",Afrika
+"E340,281",Afrika
+"E239,820",Afrika
+"E421,925",Afrika
+"E113,724",Afrika
+"E134,632",Afrika
+"E230,877",Afrika
+"E153,462",Afrika
+"E253,372",Afrika
+"E58,446",Afrika
+"E293,920",Afrika
+"E99,304",Afrika
+"E233,280",Afrika
+"E54,237",Afrika
+"E135,432",Afrika
+"E13,358",Afrika
+"E84,528",Afrika
+"E333,252",Afrika
+"E420,543",Afrika
+"E124,488",Afrika
+"E781,280",Afrika
+"E296,396",Afrika
+"E115,695",Afrika
+"E61,614",Afrika
+"E103,116",Afrika
+"E162,447",Afrika
+"E924,680",Afrika
+"E165,330",Afrika
+"E456,687",Afrika
+"E462,160",Afrika
+"E227,572",Afrika
+"E534,891",Afrika
+"E221,384",Afrika
+"E132,186",Afrika
+"E428,364",Afrika
+"E550,980",Afrika
+"E142,900",Afrika
+"E189,396",Afrika
+"E56,208",Afrika
+"E187,572",Afrika
+"E237,068",Afrika
+"E497,690",Afrika
+"E107,316",Afrika
+"E161,133",Afrika
+"E872,901",Afrika
+"E132,192",Afrika
+"E456,870",Afrika
+"E145,856",Afrika
+"E505,267",Afrika
+"E194,675",Afrika
+"E53,835",Afrika
+"E414,834",Afrika
+"E21,581",Afrika
+"E338,994",Afrika
+"E715,662",Afrika
+"E499,338",Afrika
+"E714,680",Afrika
+"E74,939",Afrika
+"E178,102",Afrika
+"E374,928",Afrika
+"E202,404",Afrika
+"E379,004",Afrika
+"E619,255",Afrika
+"E470,728",Afrika
+"E442,145",Afrika
+"E119,960",Afrika
+"E38,770",Afrika
+"E72,652",Afrika
+"E448,040",Afrika
+"E181,224",Afrika
+"E230,839",Afrika
+"E88,118",Afrika
+"E239,334",Afrika
+"E102,591",Afrika
+"E586,140",Afrika
+"E227,940",Afrika
+"E215,873",Afrika
+"E224,196",Afrika
+"E381,150",Afrika
+"E336,328",Afrika
+"E121,448",Afrika
+"E681,850",Afrika
+"E696,904",Afrika
+"E72,604",Afrika
+"E262,548",Afrika
+"E280,322",Afrika
+"E220,850",Afrika
+"E74,019",Afrika
+"E72,630",Afrika
+"E617,157",Afrika
+"E198,464",Afrika
+"E89,712",Afrika
+"E124,864",Afrika
+"E50,986",Afrika
+"E196,766",Afrika
+"E776,889",Afrika
+"E648,753",Afrika
+"E171,216",Afrika
+"E206,397",Afrika
+"E396,372",Afrika
+"E385,224",Afrika
+"E241,353",Afrika
+"E457,191",Afrika
+"E432,792",Afrika
+"E142,032",Afrika
+"E126,520",Afrika
+"E124,580",Afrika
+"E34,479",Afrika
+"E263,196",Afrika
+"E435,018",Afrika
+"E1,329,036",Asien
+"E1,219,746",Asien
+"E467,313",Asien
+"E1,882,884",Asien
+"E1,782,053",Asien
+"E202,721",Asien
+"E389,866",Asien
+"E1,152,474",Asien
+"E1,877,508",Asien
+"E205,922",Asien
+"E784,796",Asien
+"E1,028,030",Asien
+"E1,490,055",Asien
+"E400,731",Asien
+"E1,370,658",Asien
+"E2,630,124",Asien
+"E3,136,553",Asien
+"E2,138,178",Asien
+"E1,006,782",Asien
+"E1,115,433",Asien
+"E2,640,066",Asien
+"E779,436",Asien
+"E1,761,599",Asien
+"E1,629,916",Asien
+"E268,204",Asien
+"E220,136",Asien
+"E1,472,172",Asien
+"E2,141,076",Asien
+"E1,731,390",Asien
+"E3,029,960",Asien
+"E1,513,890",Asien
+"E1,198,320",Asien
+"E1,647,696",Asien
+"E158,409",Asien
+"E3,680,874",Asien
+"E1,312,680",Asien
+"E2,970,942",Asien
+"E1,907,432",Asien
+"E703,455",Asien
+"E1,154,847",Asien
+"E876,169",Asien
+"E1,647,852",Asien
+"E992,184",Asien
+"E2,743,308",Asien
+"E289,110",Asien
+"E373,632",Asien
+"E1,474,428",Asien
+"E1,858,000",Asien
+"E1,485,861",Asien
+"E2,507,918",Asien
+"E1,598,020",Asien
+"E1,410,731",Asien
+"E1,055,350",Asien
+"E4,979,260",Asien
+"E1,780,040",Asien
+"E231,721",Asien
+"E323,006",Asien
+"E1,310,508",Asien
+"E1,787,022",Asien
+"E764,840",Asien
+"E2,363,304",Asien
+"E2,999,592",Asien
+"E918,274",Asien
+"E3,508,299",Asien
+"E1,392,390",Asien
+"E880,917",Asien
+"E408,069",Asien
+"E1,488,140",Asien
+"E2,192,780",Asien
+"E369,075",Asien
+"E290,182",Asien
+"E867,198",Asien
+"E1,208,620",Asien
+"E1,515,429",Asien
+"E1,358,480",Asien
+"E1,518,678",Asien
+"E1,658,328",Asien
+"E3,053,816",Asien
+"E3,409,191",Asien
+"E1,603,536",Asien
+"E1,216,270",Asien
+"E1,418,768",Asien
+"E3,164,350",Asien
+"E294,686",Asien
+"E375,020",Asien
+"E1,153,720",Asien
+"E680,950",Asien
+"E871,493",Asien
+"E346,340",Asien
+"E1,599,930",Asien
+"E1,390,131",Asien
+"E840,558",Asien
+"E948,000",Asien
+"E647,703",Asien
+"E714,084",Asien
+"E1,929,480",Asien
+"E1,482,564",Asien
+"E1,788,696",Asien
+"E2,320,415",Asien
+"E2,359,105",Asien
+"E3,081,360",Asien
+"E1,458,222",Asien
+"E1,719,156",Asien
+"E3,289,170",Asien
+"E2,309,010",Asien
+"E1,237,680",Asien
+"E3,960,234",Asien
+"E413,630",Asien
+"E328,609",Asien
+"E1,814,855",Asien
+"E330,246",Asien
+"E2,517,774",Asien
+"E742,760",Asien
+"E828,024",Asien
+"E290,206",Asien
+"E305,756",Asien
+"E443,974",Asien
+"E2,281,056",Asien
+"E1,888,050",Asien
+"E613,986",Asien
+"E370,372",Asien
+"E1,104,068",Asien
+"E1,798,496",Asien
+"E1,951,504",Asien
+"E258,614",Asien
+"E2,445,816",Asien
+"E1,304,625",Asien
+"E2,675,239",Asien
+"E1,481,275",Asien
+"E3,409,119",Asien
+"E4,813,350",Asien
+"E1,260,666",Asien
+"E387,156",Asien
+"E1,301,348",Asien
+"E446,140",Asien
+"E275,422",Asien
+"E1,835,592",Asien
+"E1,140,915",Asien
+"E2,566,902",Asien
+"E1,156,760",Asien
+"E2,400,146",Asien
+"E1,562,255",Asien
+"E1,698,552",Asien
+"E2,919,588",Asien
+"E169,068",Asien
+"E2,709,770",Asien
+"E373,956",Asien
+"E360,660",Asien
+"E448,703",Asien
+"E2,169,678",Asien
+"E739,848",Asien
+"E2,939,517",Asien
+"E2,846,872",Asien
+"E673,078",Asien
+"E4,617,290",Asien
+"E1,617,820",Asien
+"E1,466,890",Asien
+"E2,128,777",Asien
+"E389,816",Asien
+"E3,896,848",Asien
+"E501,358",Asien
+"E1,980,846",Asien
+"E1,485,295",Asien
+"E1,433,276",Asien
+"E813,288",Asien
+"E916,524",Asien
+"E667,776",Asien
+"E2,605,734",Asien
+"E1,234,842",Asien
+"E1,293,600",Asien
+"E4,191,290",Asien
+"E2,833,650",Asien
+"E2,674,935",Asien
+"E2,719,820",Asien
+"E3,774,288",Asien
+"E898,490",Asien
+"E1,725,352",Asien
+"E239,324",Asien
+"E3,978,580",Asien
+"E1,632,760",Asien
+"E2,029,788",Asien
+"E3,724,317",Asien
+"E2,204,802",Europa
+"E6,686,775",Europa
+"E9,523,150",Europa
+"E973,538",Europa
+"E2,428,401",Europa
+"E5,251,068",Europa
+"E537,428",Europa
+"E5,046,648",Europa
+"E1,603,620",Europa
+"E2,684,645",Europa
+"E3,888,820",Europa
+"E3,024,748",Europa
+"E2,610,510",Europa
+"E1,888,212",Europa
+"E3,167,166",Europa
+"E5,428,674",Europa
+"E7,937,910",Europa
+"E3,745,785",Europa
+"E3,325,755",Europa
+"E4,329,174",Europa
+"E2,348,925",Europa
+"E3,018,450",Europa
+"E5,065,032",Europa
+"E5,088,492",Europa
+"E6,670,928",Europa
+"E4,731,345",Europa
+"E596,873",Europa
+"E2,845,563",Europa
+"E4,890,810",Europa
+"E2,085,148",Europa
+"E2,124,168",Europa
+"E1,113,114",Europa
+"E5,509,144",Europa
+"E5,818,936",Europa
+"E3,957,628",Europa
+"E1,109,316",Europa
+"E6,361,760",Europa
+"E3,684,982",Europa
+"E3,010,528",Europa
+"E960,814",Europa
+"E3,182,682",Europa
+"E2,867,361",Europa
+"E6,625,350",Europa
+"E1,871,448",Europa
+"E783,615",Europa
+"E7,506,730",Europa
+"E4,222,022",Europa
+"E973,156",Europa
+"E7,598,750",Europa
+"E3,348,804",Europa
+"E6,077,064",Europa
+"E5,356,848",Europa
+"E2,108,156",Europa
+"E5,703,285",Europa
+"E620,045",Europa
+"E2,601,165",Europa
+"E3,161,415",Europa
+"E5,932,212",Europa
+"E7,500,584",Europa
+"E9,430,900",Europa
+"E861,331",Europa
+"E7,593,840",Europa
+"E5,713,120",Europa
+"E5,505,912",Europa
+"E738,426",Europa
+"E2,950,865",Europa
+"E6,106,600",Europa
+"E851,763",Europa
+"E1,306,928",Europa
+"E9,874,640",Europa
+"E5,412,652",Europa
+"E3,381,312",Europa
+"E3,259,110",Europa
+"E2,259,795",Europa
+"E1,820,448",Europa
+"E4,882,335",Europa
+"E7,514,390",Europa
+"E3,812,772",Europa
+"E941,933",Europa
+"E8,196,255",Europa
+"E5,028,040",Europa
+"E3,922,116",Europa
+"E9,732,420",Europa
+"E5,718,664",Europa
+"E1,388,176",Europa
+"E2,006,284",Europa
+"E3,541,595",Europa
+"E8,326,220",Europa
+"E5,799,850",Europa
+"E5,426,541",Europa
+"E3,388,700",Europa
+"E686,910",Europa
+"E3,668,455",Europa
+"E7,137,030",Europa
+"E6,138,650",Europa
+"E7,115,064",Europa
+"E3,247,290",Europa
+"E5,271,693",Europa
+"E6,539,985",Europa
+"E1,671,684",Europa
+"E895,649",Europa
+"E2,957,631",Europa
+"E1,168,368",Europa
+"E2,766,352",Europa
+"E5,155,758",Europa
+"E2,636,150",Europa
+"E4,714,945",Europa
+"E1,550,936",Europa
+"E3,188,316",Europa
+"E8,913,830",Europa
+"E3,283,335",Europa
+"E3,237,736",Europa
+"E6,122,250",Europa
+"E1,711,626",Europa
+"E4,539,500",Europa
+"E1,401,820",Europa
+"E7,747,389",Europa
+"E4,521,936",Europa
+"E4,877,655",Europa
+"E936,669",Europa
+"E4,267,280",Europa
+"E1,708,274",Europa
+"E3,513,480",Europa
+"E3,198,092",Europa
+"E1,809,927",Europa
+"E3,799,220",Europa
+"E3,322,818",Europa
+"E4,893,543",Europa
+"E1,970,812",Europa
+"E4,094,535",Europa
+"E2,625,336",Europa
+"E5,538,816",Europa
+"E5,328,533",Europa
+"E6,606,152",Europa
+"E4,225,038",Europa
+"E5,903,168",Europa
+"E2,058,192",Europa
+"E4,150,867",Europa
+"E3,239,040",Europa
+"E7,023,430",Europa
+"E2,126,301",Europa
+"E5,262,390",Europa
+"E4,818,609",Europa
+"E3,140,780",Europa
+"E3,628,562",Europa
+"E1,740,116",Europa
+"E3,356,652",Europa
+"E5,030,180",Europa
+"E4,513,467",Europa
+"E6,221,570",Europa
+"E4,895,219",Europa
+"E8,305,480",Europa
+"E7,821,112",Europa
+"E5,692,778",Europa
+"E1,750,986",Europa
+"E5,008,374",Europa
+"E7,193,646",Europa
+"E5,200,850",Europa
+"E6,060,243",Europa
+"E4,516,512",Europa
+"E4,031,725",Europa
+"E8,269,101",Europa
+"E7,584,220",Europa
+"E7,365,618",Europa
+"E6,485,920",Europa
+"E4,599,085",Nord A
+"E7,136,064",Nord A
+"E9,476,150",Nord A
+"E8,620,460",Nord A
+"E4,613,988",Nord A
+"E1,410,820",Nord A
+"E1,465,386",Nord A
+"E8,959,356",Nord A
+"E1,430,386",Nord A
+"E6,201,306",Nord A
+"E501,712",Nord A
+"E4,513,851",Nord A
+"E4,986,534",Nord A
+"E5,850,410",Nord A
+"E6,380,724",Nord A
+"E4,149,260",Nord A
+"E5,991,712",Nord A
+"E7,503,560",Nord A
+"E3,897,588",Nord A
+"E5,945,514",Nord A
+"E4,493,085",Nord A
+"E2,782,768",Nord A
+"E6,035,049",Nord A
+"E651,167",Nord A
+"E3,083,956",Nord A
+"E5,025,461",Nord A
+"E4,197,312",Nord A
+"E5,493,488",Nord A
+"E1,339,418",Nord A
+"E3,561,896",Nord A
+"E6,049,836",Nord A
+"E783,042",Nord A
+"E3,046,880",Nord A
+"E5,240,130",Nord A
+"E9,078,550",Nord A
+"E3,799,752",Nord A
+"E4,356,408",Nord A
+"E1,303,948",Nord A
+"E3,445,596",Nord A
+"E1,980,168",Nord A
+"E1,870,686",Nord A
+"E3,994,848",Nord A
+"E503,810",Nord A
+"E2,854,710",Nord A
+"E542,034",Nord A
+"E4,522,605",Nord A
+"E2,972,875",Nord A
+"E7,330,200",Nord A
+"E3,076,698",Nord A
+"E6,382,810",Nord A
+"E4,007,850",Nord A
+"E3,128,080",Nord A
+"E1,743,688",Nord A
+"E751,753",Nord A
+"E1,246,644",Nord A
+"E2,908,715",Nord A
+"E3,696,444",Nord A
+"E5,182,168",Nord A
+"E7,826,643",Nord A
+"E2,886,234",Nord A
+"E697,932",Nord A
+"E1,680,918",Nord A
+"E6,061,482",Nord A
+"E5,726,650",Nord A
+"E7,647,960",Nord A
+"E7,637,170",Nord A
+"E2,367,688",Nord A
+"E527,831",Nord A
+"E4,232,112",Nord A
+"E4,283,952",Nord A
+"E2,768,124",Nord A
+"E3,600,716",Nord A
+"E3,701,068",Nord A
+"E1,741,024",Nord A
+"E4,198,070",Nord A
+"E1,240,926",Nord A
+"E3,196,038",Nord A
+"E7,928,664",Nord A
+"E742,551",Nord A
+"E2,928,790",Nord A
+"E6,567,743",Nord A
+"E6,129,656",Nord A
+"E5,679,072",Nord A
+"E3,659,747",Nord A
+"E2,173,380",Nord A
+"E3,932,745",Nord A
+"E4,502,364",Nord A
+"E1,742,082",Nord A
+"E2,040,663",Nord A
+"E5,063,163",Nord A
+"E7,647,568",Nord A
+"E6,278,860",Nord A
+"E6,791,155",Nord A
+"E1,132,006",Nord A
+"E8,704,836",Nord A
+"E3,260,784",Nord A
+"E2,990,096",Nord A
+"E4,838,935",Nord A
+"E1,384,782",Nord A
+"E5,999,560",Nord A
+"E943,402",Nord A
+"E1,547,024",Nord A
+"E9,390,590",Nord A
+"E4,746,339",Nord A
+"E500,120",Nord A
+"E1,434,810",Nord A
+"E1,957,692",Nord A
+"E8,492,544",Nord A
+"E2,800,560",Nord A
+"E2,555,116",Nord A
+"E7,181,820",Nord A
+"E6,886,112",Nord A
+"E5,706,564",Nord A
+"E4,521,370",Nord A
+"E2,044,731",Nord A
+"E4,551,540",Nord A
+"E3,820,688",Nord A
+"E4,189,855",Nord A
+"E3,191,808",Nord A
+"E5,201,562",Nord A
+"E5,834,776",Nord A
+"E5,514,968",Nord A
+"E8,557,308",Nord A
+"E5,525,631",Nord A
+"E2,368,863",Nord A
+"E5,693,868",Nord A
+"E2,923,479",Nord A
+"E5,681,144",Nord A
+"E4,114,020",Nord A
+"E6,418,050",Nord A
+"E3,234,384",Nord A
+"E3,493,674",Nord A
+"E3,385,885",Nord A
+"E2,909,307",Nord A
+"E4,146,655",Nord A
+"E6,603,667",Nord A
+"E7,269,130",Nord A
+"E1,581,578",Nord A
+"E843,547",Nord A
+"E1,947,714",Nord A
+"E9,184,930",Nord A
+"E7,520,706",Nord A
+"E7,080,448",Nord A
+"E4,782,204",Nord A
+"E7,484,160",Nord A
+"E6,012,540",Nord A
+"E2,929,452",Nord A
+"E7,347,848",Nord A
+"E1,307,842",Nord A
+"E1,886,844",Nord A
+"E5,358,750",Nord A
+"E5,910,384",Nord A
+"E746,706",Nord A
+"E4,636,818",Nord A
+"E4,713,985",Nord A
+"E1,697,019",Nord A
+"E1,099,056",Nord A
+"E605,572",Nord A
+"E7,684,170",Nord A
+"E1,313,404",Nord A
+"E2,483,187",Nord A
+"E2,662,112",Nord A
+"E696,778",Nord A
+"E7,726,936",Nord A
+"E3,479,370",Nord A
+"E5,027,445",Nord A
+"E995,337",Nord A
+"E4,118,156",Nord A
+"E4,966,280",Nord A
+"E2,888,984",Nord A
+"E3,647,224",Ozeani
+"E835,239",Ozeani
+"E1,404,783",Ozeani
+"E1,540,255",Ozeani
+"E262,332",Ozeani
+"E1,665,280",Ozeani
+"E3,675,753",Ozeani
+"E678,054",Ozeani
+"E2,490,000",Ozeani
+"E920,472",Ozeani
+"E2,517,948",Ozeani
+"E823,701",Ozeani
+"E254,940",Ozeani
+"E3,068,765",Ozeani
+"E2,345,800",Ozeani
+"E969,225",Ozeani
+"E1,022,623",Ozeani
+"E2,919,708",Ozeani
+"E987,760",Ozeani
+"E1,348,900",Ozeani
+"E4,508,620",Ozeani
+"E1,432,956",Ozeani
+"E2,514,600",Ozeani
+"E3,579,552",Ozeani
+"E2,819,280",Ozeani
+"E621,792",Ozeani
+"E349,224",Ozeani
+"E1,976,288",Ozeani
+"E648,720",Ozeani
+"E1,413,165",Ozeani
+"E641,854",Ozeani
+"E429,264",Ozeani
+"E1,945,716",Ozeani
+"E170,088",Ozeani
+"E139,496",Ozeani
+"E1,444,898",Ozeani
+"E1,952,820",Ozeani
+"E623,084",Ozeani
+"E445,512",Ozeani
+"E499,362",Ozeani
+"E1,651,590",Ozeani
+"E827,958",Ozeani
+"E2,454,000",Ozeani
+"E2,909,424",Ozeani
+"E3,252,739",Ozeani
+"E1,806,910",Ozeani
+"E2,455,752",Ozeani
+"E3,817,278",Ozeani
+"E572,164",Ozeani
+"E412,067",Ozeani
+"E1,209,051",Ozeani
+"E2,073,825",Ozeani
+"E124,904",Ozeani
+"E437,349",Ozeani
+"E1,127,430",Ozeani
+"E380,885",Ozeani
+"E4,289,210",Ozeani
+"E329,674",Ozeani
+"E113,318",Ozeani
+"E4,250,250",Ozeani
+"E2,958,714",Ozeani
+"E1,545,715",Ozeani
+"E595,445",Ozeani
+"E1,329,171",Ozeani
+"E4,145,895",Ozeani
+"E1,298,394",Ozeani
+"E727,244",Ozeani
+"E4,169,630",Ozeani
+"E4,079,160",Ozeani
+"E1,665,570",Ozeani
+"E979,866",Ozeani
+"E1,963,680",Ozeani
+"E4,172,080",Ozeani
+"E847,394",Ozeani
+"E1,041,948",Ozeani
+"E2,053,720",Ozeani
+"E1,270,544",Ozeani
+"E1,752,726",Ozeani
+"E624,588",Ozeani
+"E497,856",Ozeani
+"E3,726,890",Ozeani
+"E4,371,372",Ozeani
+"E959,226",Ozeani
+"E1,121,720",Ozeani
+"E2,649,084",Ozeani
+"E1,774,737",Ozeani
+"E3,341,570",Ozeani
+"E584,182",Ozeani
+"E2,684,030",Ozeani
+"E3,168,732",Ozeani
+"E2,120,110",Ozeani
+"E1,070,975",Ozeani
+"E2,659,968",Ozeani
+"E770,104",Ozeani
+"E913,548",Ozeani
+"E2,980,026",Ozeani
+"E2,926,416",Ozeani
+"E660,388",Ozeani
+"E704,715",Ozeani
+"E853,312",Ozeani
+"E2,551,864",Ozeani
+"E3,734,760",Ozeani
+"E182,797",Ozeani
+"E1,711,240",Ozeani
+"E3,948,344",Ozeani
+"E948,952",Ozeani
+"E1,210,701",Ozeani
+"E255,510",Ozeani
+"E644,552",Ozeani
+"E2,260,626",Ozeani
+"E404,523",Ozeani
+"E1,054,396",Ozeani
+"E2,296,161",Ozeani
+"E3,434,795",Ozeani
+"E204,942",Ozeani
+"E766,065",Ozeani
+"E1,506,145",Ozeani
+"E1,334,571",Ozeani
+"E659,825",Ozeani
+"E1,176,133",Ozeani
+"E4,204,053",Ozeani
+"E4,224,078",Ozeani
+"E1,878,636",Ozeani
+"E2,724,944",Ozeani
+"E2,448,531",Ozeani
+"E4,730,500",Ozeani
+"E816,648",Ozeani
+"E720,818",Ozeani
+"E2,165,765",Ozeani
+"E1,866,592",Ozeani
+"E3,125,822",Ozeani
+"E453,225",Ozeani
+"E2,947,448",Ozeani
+"E624,986",Ozeani
+"E352,065",Ozeani
+"E327,766",Ozeani
+"E1,044,588",Ozeani
+"E294,497",Ozeani
+"E554,052",Ozeani
+"E1,725,577",Ozeani
+"E308,449",Ozeani
+"E1,379,399",Ozeani
+"E764,718",Ozeani
+"E4,007,730",Ozeani
+"E1,406,397",Ozeani
+"E3,659,049",Ozeani
+"E1,494,396",Ozeani
+"E336,292",Ozeani
+"E1,216,356",Ozeani
+"E854,124",Ozeani
+"E3,162,680",Ozeani
+"E3,328,960",Ozeani
+"E715,830",Ozeani
+"E1,064,585",Ozeani
+"E1,969,960",Ozeani
+"E3,240,290",Ozeani
+"E517,662",Ozeani
+"E282,030",Ozeani
+"E4,583,460",Ozeani
+"E2,210,715",Ozeani
+"E589,548",Ozeani
+"E2,037,204",Ozeani
+"E363,524",Ozeani
+"E2,358,588",Ozeani
+"E1,197,154",Ozeani
+"E454,672",Ozeani
+"E369,508",Ozeani
+"E948,436",Ozeani
+"E1,234,032",Ozeani
+"E463,940",Ozeani
+"E1,384,359",Ozeani
+"E970,296",Süd u
+"E2,586,972",Süd u
+"E3,449,985",Süd u
+"E2,454,620",Süd u
+"E4,136,985",Süd u
+"E1,010,019",Süd u
+"E702,658",Süd u
+"E147,126",Süd u
+"E235,001",Süd u
+"E459,196",Süd u
+"E353,369",Süd u
+"E2,420,185",Süd u
+"E234,285",Süd u
+"E1,024,715",Süd u
+"E463,542",Süd u
+"E3,936,770",Süd u
+"E1,552,976",Süd u
+"E3,930,184",Süd u
+"E1,190,844",Süd u
+"E985,641",Süd u
+"E480,984",Süd u
+"E1,571,470",Süd u
+"E2,570,008",Süd u
+"E348,648",Süd u
+"E731,607",Süd u
+"E597,505",Süd u
+"E2,026,864",Süd u
+"E2,938,878",Süd u
+"E509,560",Süd u
+"E213,594",Süd u
+"E1,660,505",Süd u
+"E1,889,512",Süd u
+"E908,888",Süd u
+"E832,524",Süd u
+"E2,885,508",Süd u
+"E498,764",Süd u
+"E1,312,284",Süd u
+"E2,265,055",Süd u
+"E1,757,528",Süd u
+"E1,636,836",Süd u
+"E505,134",Süd u
+"E1,746,984",Süd u
+"E978,687",Süd u
+"E191,523",Süd u
+"E2,207,210",Süd u
+"E1,781,580",Süd u
+"E1,656,117",Süd u
+"E1,955,425",Süd u
+"E3,373,344",Süd u
+"E4,424,660",Süd u
+"E1,239,280",Süd u
+"E1,435,227",Süd u
+"E1,379,346",Süd u
+"E1,603,704",Süd u
+"E2,977,443",Süd u
+"E3,825,864",Süd u
+"E1,418,264",Süd u
+"E1,454,118",Süd u
+"E1,206,336",Süd u
+"E4,158,480",Süd u
+"E167,243",Süd u
+"E2,010,600",Süd u
+"E277,565",Süd u
+"E1,330,518",Süd u
+"E732,490",Süd u
+"E2,278,310",Süd u
+"E405,782",Süd u
+"E1,246,384",Süd u
+"E1,885,898",Süd u
+"E1,249,640",Süd u
+"E946,920",Süd u
+"E959,118",Süd u
+"E897,369",Süd u
+"E1,833,408",Süd u
+"E309,601",Süd u
+"E690,694",Süd u
+"E1,933,575",Süd u
+"E1,644,688",Süd u
+"E951,201",Süd u
+"E871,412",Süd u
+"E885,792",Süd u
+"E315,015",Süd u
+"E308,639",Süd u
+"E937,308",Süd u
+"E1,866,900",Süd u
+"E395,025",Süd u
+"E1,465,408",Süd u
+"E283,268",Süd u
+"E689,380",Süd u
+"E1,267,866",Süd u
+"E3,727,701",Süd u
+"E1,187,850",Süd u
+"E674,628",Süd u
+"E2,892,465",Süd u
+"E242,185",Süd u
+"E3,982,419",Süd u
+"E762,966",Süd u
+"E997,622",Süd u
+"E825,561",Süd u
+"E2,770,536",Süd u
+"E3,918,312",Süd u
+"E407,445",Süd u
+"E1,816,326",Süd u
+"E1,542,704",Süd u
+"E2,015,790",Süd u
+"E771,880",Süd u
+"E1,728,072",Süd u
+"E1,142,199",Süd u
+"E2,374,806",Süd u
+"E3,071,290",Süd u
+"E522,760",Süd u
+"E2,778,264",Süd u
+"E1,869,678",Süd u
+"E1,257,429",Süd u
+"E294,623",Süd u
+"E2,318,328",Süd u
+"E1,263,054",Süd u
+"E2,182,290",Süd u
+"E3,024,232",Süd u
+"E3,099,712",Süd u
+"E3,476,493",Süd u
+"E448,266",Süd u
+"E2,453,680",Süd u
+"E755,725",Süd u
+"E953,617",Süd u
+"E1,807,295",Süd u
+"E368,257",Süd u
+"E1,232,451",Süd u
+"E952,476",Süd u
+"E190,859",Süd u
+"E1,897,760",Süd u
+"E1,519,518",Süd u
+"E3,430,230",Süd u
+"E2,944,830",Süd u
+"E1,129,744",Süd u
+"E564,128",Süd u
+"E1,930,033",Süd u
+"E1,432,624",Süd u
+"E1,890,880",Süd u
+"E3,963,776",Süd u
+"E1,961,964",Süd u
+"E1,280,037",Süd u
+"E289,810",Süd u
+"E917,604",Süd u
+"E2,475,162",Süd u
+"E375,609",Süd u
+"E4,429,512",Süd u

@@ -1,0 +1,7202 @@
+[
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "KD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 46,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 37,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 30,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 44,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 27,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 45,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 37,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 33,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 39,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 29,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 25,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 48,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 30,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 27,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 23,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 34,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 39,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 36,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 40,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 41,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 26,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 43,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 37,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 25,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 42,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 24,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 32,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 49,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 31,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 21,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 29,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 26,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 27,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 21,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 23,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 21,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 41,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 42,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 27,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 35,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 35,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 31,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 22,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 42,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 22,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 36,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 30,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 33,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 30,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 36,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 49,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 34,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 27,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 42,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 23,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 45,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 24,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 21,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 21,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 44,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 21,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 46,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 39,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 21,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 24,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 25,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 33,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 40,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 26,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 49,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 35,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 49,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 26,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 26,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 30,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 49,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 27,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 24,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 29,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 39,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 21,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 43,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 43,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 33,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 39,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 28,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 45,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 25,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 35,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 48,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 38,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 31,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 32,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 40,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 35,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 43,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 35,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 39,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 21,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 31,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 37,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 36,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 40,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 35,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 45,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 41,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 23,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 43,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 45,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 32,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 43,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 29,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 47,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CD",
+   "STATUSCODE": 32,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "KF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 55,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 64,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 39,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 30,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 51,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 32,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 33,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 36,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 38,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 49,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 63,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 24,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 28,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 71,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 73,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 22,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 67,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 67,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 30,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 70,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 59,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 69,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 67,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 54,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 54,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 43,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 68,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 75,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 70,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 69,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 61,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 28,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 59,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 33,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 31,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 67,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 62,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 45,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 49,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 24,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 23,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 68,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 71,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 31,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 31,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 61,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 75,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 41,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 21,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 66,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 26,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 38,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 73,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 36,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 64,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 64,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 38,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 74,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 29,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 47,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 60,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 27,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 75,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 30,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 30,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 51,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 27,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 68,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 34,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 42,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 48,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 74,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 25,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 46,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 39,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 45,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 23,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 75,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 70,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 61,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 73,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 28,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 43,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 36,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 60,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 59,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 65,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 73,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 65,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 24,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 56,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 22,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 44,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 31,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 27,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 42,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 71,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 39,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 59,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 47,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 31,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 72,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 68,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 24,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 64,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 23,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 48,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 74,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 38,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 46,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 72,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 25,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 43,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 28,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 67,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 55,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 34,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 66,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 26,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 31,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 70,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 40,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 58,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 47,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 68,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 40,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 22,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 24,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 57,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 71,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 54,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 35,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 39,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 74,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "CF",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 48,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 44,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 94,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 72,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 88,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 54,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 39,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 97,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 75,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 27,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 23,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 29,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 38,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 81,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 72,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 54,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 81,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 71,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 95,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 73,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 28,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 51,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 84,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 62,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 46,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 55,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 31,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 79,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 42,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 56,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 35,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 82,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 82,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 73,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 70,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 82,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 90,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 89,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 27,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 80,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 68,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 66,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 60,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 90,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 21,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 51,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 80,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 100,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 51,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 73,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 58,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 78,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 65,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 74,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 52,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 41,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 88,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 70,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 40,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 56,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 25,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 95,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 66,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 41,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 37,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 35,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 78,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 32,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 27,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 70,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 71,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 57,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 47,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 61,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 44,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 11,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 53,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 87,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 83,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 94,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 97,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 29,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 96,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 34,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 32,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 79,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 87,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 83,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 51,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 27,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 82,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 56,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 65,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 70,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 45,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 82,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 92,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 37,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 70,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 66,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 69,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 67,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 35,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 34,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 71,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 30,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 48,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 51,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 26,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 87,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 90,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 33,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 94,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 57,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 63,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 97,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 72,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 49,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 72,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 16,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 82,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 60,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 56,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 75,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 76,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 80,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 87,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 32,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 81,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 97,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 42,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 91,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 51,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 68,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 15,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 84,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 4,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 79,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 24,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 78,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 48,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 36,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 31,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 57,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 94,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 2,
+   "CONDITION": "WA"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 92,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "SW1",
+   "STATUSCODE": 71,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 97,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 27,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 125,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 32,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 50,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 102,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 88,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 67,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 73,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 26,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 27,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 45,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 98,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 77,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 62,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 70,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 28,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 120,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 105,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 31,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 124,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 54,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 124,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 39,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 80,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 111,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 34,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 38,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 45,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 25,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 84,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 57,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 79,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 54,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 76,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 109,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 63,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 120,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 38,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 96,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 67,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 114,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 110,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 125,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 24,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 99,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 41,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 103,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 92,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 110,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 67,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 67,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 109,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 69,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 118,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 62,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 62,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 45,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 29,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 40,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 92,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 1,
+   "CONDITION": "AU"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 58,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 25,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 52,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 55,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 86,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 46,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 66,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 123,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 37,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 106,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 46,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 100,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 43,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 63,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 10,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 76,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 39,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 95,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 78,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 121,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 45,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 3,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 104,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 88,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 59,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 31,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 51,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 104,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 82,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 24,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 66,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 94,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 18,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 23,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 76,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 43,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 80,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 34,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 71,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 76,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 78,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 46,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 13,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 19,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 9,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 91,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 54,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 55,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 7,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 99,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 33,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 52,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 92,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 95,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 118,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 98,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 37,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 100,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 2,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 26,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 57,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 42,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 121,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 80,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 18,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 118,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 36,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 51,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 61,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 28,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 118,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 36,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 49,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 33,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 30,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 65,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 31,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 119,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 76,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 92,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 17,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 64,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 125,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 28,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 112,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 9,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 67,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 77,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 96,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 28,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 90,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 75,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 8,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 7,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 109,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 4,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 5,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 3,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 63,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 13,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 85,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 71,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 64,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 6,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 15,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 20,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 14,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 20,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 70,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 64,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 123,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 93,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 14,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 72,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 11,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 41,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 12,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 21,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 71,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 1,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 12,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 6,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 28,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 104,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 17,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 30,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 10,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 68,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 60,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 8,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 64,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 98,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 19,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 106,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 5,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 114,
+   "CONDITION": "IB"
+ },
+ {
+   "DAYS": 16,
+   "MACHINE_NAME": "SW2",
+   "STATUSCODE": 100,
+   "CONDITION": "IB"
+ }
+]
